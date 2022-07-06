@@ -1,5 +1,6 @@
+# Hi, I am Suyash.
 # 💫 About Me:
-🔭 I’m currently working as a Full Stack Developer.<br>👯 TechStack I'm using at work:  MS-SQL, .Net Entity Framework, Angular<br>🌱 I’m currently exploring- Data Structures & Algorithms, Data Engineering, Cloud Computing<br>🤝 I’m open to Software Dev Engineer and Data Engineer roles.<br>⚡ Highest Qualification - M.Tech in Computer Engineering (Veermata Jijabai Technological Institute, Mumbai)<br><br>💬 Contact me at : Email - suyash.dabhane@gmail.com
+🔭 I’m currently working as a Full Stack Developer.<br>👯 TechStack I'm using at work :  MS-SQL, .Net Entity Framework, Angular<br>🌱 I’m currently exploring - Data Structures & Algorithms, Data Engineering, Cloud Computing<br>🤝 I’m open to Software Dev Engineer and Data Engineer roles.<br>⚡ Highest Qualification - M.Tech in Computer Engineering (Veermata Jijabai Technological Institute, Mumbai)<br><br>💬 Contact me at : Email - suyash.dabhane@gmail.com
 
 
 ## 🌐 Socials:
