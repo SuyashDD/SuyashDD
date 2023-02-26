@@ -13,7 +13,7 @@
 
 - 🤝 I’m open to roles like - **Software Engineer, Data Engineer, Site Reliability Engineer, DevOps Enigneer**
 
-- 📫 How to reach me **suyash.dabhane@gmail.com**
+- 📫 How to reach me **suyashd.py@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
